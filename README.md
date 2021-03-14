@@ -14,3 +14,6 @@ Working:-
 4.if it matches with the preset number (we set before using the push button switch), the buzzer will get triggered and alert the user that desired count has been reached by giving alarm through buzzer.
 
 5.Then message will send to User through bluetooth module
+
+![setup](https://user-images.githubusercontent.com/55014159/111077252-ec49d080-8515-11eb-9bfe-900fe1768c7e.jpg)
+![output](https://user-images.githubusercontent.com/55014159/111077271-008dcd80-8516-11eb-9905-f276cdc787c4.jpg)
