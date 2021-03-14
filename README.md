@@ -7,10 +7,10 @@ This is an Arduino-based project to help hearing disabled persons or housewives 
 Working:-
 1.First, the user has to preset the desired counter for the pressure cooker (ex. 2, 4, 5...up to 9) through a push button attached to the device.
 
-2. Now the device will consider any whistle sound as input and start increasing its internal counter.
+2.Now the device will consider any whistle sound as input and start increasing its internal counter.
 
 3.Whenever the pressure cooker whistles, the counter increases.
 
 4.if it matches with the preset number (we set before using the push button switch), the buzzer will get triggered and alert the user that desired count has been reached by giving alarm through buzzer.
 
-5. Then message will send to User through bluetooth module
+5.Then message will send to User through bluetooth module
